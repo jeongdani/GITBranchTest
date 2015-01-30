@@ -1,8 +1,8 @@
 
-public class GitBranchTest5_dwjeong {
+public class GitBranchTest5_dhhan {
 
 	public static void main(String[] args) {
-		System.out.println("5th test");
+		System.out.println("GitBranchTest5_dhhan");
 
 	}
 
